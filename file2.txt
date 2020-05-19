@@ -2,4 +2,4 @@ duan1
 duan2
 duan3
 duan4
-duan5
+duan5->duan6
